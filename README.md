@@ -4,5 +4,3 @@ if(x==reading):
 else:
   print(" ")
 
-
-sorry for this message 
