@@ -77,11 +77,3 @@ Status   : Open to opportunities 👀
 </div>
 
 ---
-
-<div align="center">
-
-*learning in public · breaking things to understand them · one commit at a time*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=6A9FB5&style=flat-square&label=visitors)
-
-</div>
