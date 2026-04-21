@@ -1,125 +1,81 @@
-<!-- Header -->
 <div align="center">
 
-```
- ___  ___  ___       ___       ________     
-|\  \|\  \|\  \     |\  \     |\   __  \    
-\ \  \\\  \ \  \    \ \  \    \ \  \|\  \   
- \ \   __  \ \  \  __\ \  \    \ \  \\\  \  
-  \ \  \ \  \ \  \|\__\_\  \____\ \  \\\  \ 
-   \ \__\ \__\ \____________\____\ \_______\
-    \|__|\|__|\|____________\|____|\|_______|
-```
+# `$ whoami`
 
-### hey there! 👋 i'm Deepan — a full-stack dev who turns ☕ into code 
+**Deepan** — Security Enthusiast & Full-Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;Bug+Whisperer+%F0%9F%90%9B;Coffee+Powered+%E2%98%95;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+Fresh graduate | Linux user | Always learning
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=6A9FB5&background=00000000&center=true&vCenter=true&width=480&lines=%24+uname+-a+%E2%86%92+Linux+%7BArch%7D;%24+cat+%2Fetc%2Fpasswd+%7C+grep+%22passion%22;%24+sudo+apt+install+knowledge+--upgrade)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- About Me -->
-## 🧑‍💻 about me
+## `$ cat about.txt`
 
-```javascript
-const me = {
-  name: "Deepan",
-  role: "Full-Stack Developer",
-  location: "🌍 Planet Earth",
-  pronouns: "he/him | she/her | they/them",
-  currentlyBuilding: "something cool 🚧",
-  currentlyLearning: ["TypeScript", "System Design", "Coffee Brewing ☕"],
-  funFact: "I debug with console.log and I'm not ashamed 😅",
-  askMeAbout: ["web dev", "tech", "pizza topping preferences 🍕"]
-};
+```
+Name     : Deepan
+Focus    : Security Research · Full-Stack Development
+OS       : Arch / Ubuntu / Kali (btw)
+Shell    : zsh + oh-my-zsh
+Status   : Open to opportunities 👀
 ```
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ my tech toolbox
+## `$ ls ./interests`
 
-**Frontend — the pretty stuff 🎨**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend — the magic behind the curtain 🧙**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**Databases — where data sleeps 🗄️**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools — the glue 🔧**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+```
+├── 🔐  Application Security & CTFs
+├── 🐧  Linux internals & system administration  
+├── 🌐  Web development (frontend + backend)
+└── 📡  Networking & protocols
+```
 
 ---
 
-<!-- Projects -->
-## 🚀 projects i'm proud of
+## `$ cat skillset.txt`
 
-| 🎯 Project | 📝 Description | 🔗 Link |
-|---|---|---|
-| **Project Alpha** | A full-stack web app that does something awesome | [Live ↗](https://your-link.com) \| [Repo](https://github.com/yourusername/project) |
-| **Project Beta** | An API that powers something cool | [Live ↗](https://your-link.com) \| [Repo](https://github.com/yourusername/project) |
-| **Project Gamma** | A tool that makes developers' lives easier | [Live ↗](https://your-link.com) \| [Repo](https://github.com/yourusername/project) |
+**Development**
 
-> 💡 *More cool stuff pinned below!*
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=node.js&logoColor=6cc24a)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=4B8BBE)
+![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=3178C6)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=336791)
+
+**Security & Linux**
+
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-333333?style=flat-square&logo=gnu-bash&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-333333?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Wireshark](https://img.shields.io/badge/Wireshark-333333?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=2496ED)
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 github stats (aka my therapy receipts)
+## `$ ls -la ./projects`
+
+```
+├── Project Alpha  —  [Short description of what it does]
+│   └── github.com/yourusername/alpha
+│
+├── Project Beta   —  [Short description of what it does]
+│   └── github.com/yourusername/beta
+│
+└── Project Gamma  —  [Short description of what it does]
+    └── github.com/yourusername/gamma
+```
+
+## `$ ping --connect`
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<!-- Fun Section -->
-## 🎮 when i'm not coding
-
-```
-⚡ Leveling up in [your hobby]
-🎵 Listening to [your vibe]
-🎮 Playing [your game]
-📺 Watching [your show]
-🍕 Debating pineapple on pizza (it's valid, fight me)
-```
-
----
-
-<!-- Connect -->
-## 📬 let's connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourusername)&nbsp;
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:your@email.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=flat-square&logo=google-chrome&logoColor=6A9FB5)](https://your-portfolio.com)&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-333333?style=flat-square&logo=tryhackme&logoColor=C11111)](https://tryhackme.com/p/yourusername)
 
 </div>
 
@@ -127,10 +83,8 @@ const me = {
 
 <div align="center">
 
-### thanks for visiting! here's a cookie 🍪
+*learning in public · breaking things to understand them · one commit at a time*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=F7971E&style=flat-square&label=profile+views)
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=6A9FB5&style=flat-square&label=visitors)
 
 </div>
