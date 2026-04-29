@@ -18,8 +18,8 @@ Fresh graduate | Linux user | Always learning
 Name     : Deepan
 Focus    : Security Research · Full-Stack Development
 OS       : Arch / Ubuntu / Kali (btw)
-Shell    : zsh + oh-my-zsh
 Status   : Open to opportunities 👀
+
 ```
 
 ---
